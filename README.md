@@ -3,6 +3,7 @@ Game Application --> demo.exe
 
 A modification version of [Virtual-Reality-DJ-Unity](https://github.com/khoslaventures/Virtual-Reality-DJ-Unity/blob/master/README.md)
 
+**required Win 10 with Alexa turned on
 **meant to be play with HTC Vive MGE or later HMD with built-in microphone
 
 Using STT engine to control Unity game content. Currently in its initial phase that allows the user to control volume and EQ simply with voice commands.
